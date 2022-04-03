@@ -1,4 +1,4 @@
-# zoom-meeting-scheduler
+# Zoom Meeting Scheduler
 Repository for our hackdavis.io project
 
 
